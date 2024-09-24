@@ -1,4 +1,4 @@
-# Sakhi: AI Health Companion 
+# Sakhi: AI Wellness Ally 
 "**Your Health, Your Voice, Your Sakhi**" 
 
 Sakhi is an AI-powered health companion app designed to break down healthcare barriers faced by rural women in India. Built with a deep understanding of the unique challenges they face such as limited access to infrastructure, high costs, cultural norms, and language barriers. Sakhi empowers women to take control of their health with accessible, affordable, and culturally sensitive solutions.
